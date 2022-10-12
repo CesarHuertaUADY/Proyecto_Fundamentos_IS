@@ -1,4 +1,6 @@
 # Algebraintor
+![Logo Algebraintor](/artifacts/Logo_ver1_resized.png)
+
 **Scopes of the project:** 
 * **Objective:** Grant students access to a library of algebra exercises as a tool to practice several topics of middle-advanced algebra. 
 * **Expected results:** Planification and desing of the main idea; develop of functional and non-functional requirements; presentation of use case diagram.
