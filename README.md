@@ -1,6 +1,6 @@
 # Algebraintor
 **Scopes of the project:** 
-* **Objective:** Grant students access to a library of algebra exercises as a tool to practice several topics of middle-advanced algebra. The exercises will be divided into different levels. 
+* **Objective:** Grant students access to a library of algebra exercises as a tool to practice several topics of middle-advanced algebra. 
 * **Expected results:** Planification and desing of the main idea; develop of functional and non-functional requirements; presentation of use case diagram.
 * **Project limitations:** Content only available in spanish during the early versions of the project; since the project is aimed to a very specific audience, the optimal use is restrincted to this group of people.
 
@@ -13,8 +13,10 @@
 * **César Alejandro Huerta Méndez** - [@CesarHuertaUADY](https://github.com/CesarHuertaUADY "@CesarHuertaUADY")
 
 # The problem
+One of the biggest problems that students face when revising for their exams is that the exercises that appear in the search engines do not usually meet their needs: they are too easy, too difficult, they do not include the answer, among others. In addition, many students do not have access to the internet at all times, so they may not have the necessary material to study during their free time before a test.
 
 # Our solution
+There are many different ways to find exercises on the internet, but with our app it will be easier and more specific the content that the student wants, also there is no app or website where the exercises are divided into different levels. 
 
 # Target Audience
-Algebraintor is principally aimed towards highschool and freshman college students between ages of 15 to 19 seeking to learn or reinforce their knwoledge in algebra, from the most basic concepts to more complex intermediate level exercises.
+Algebraintor is principally aimed towards highschool and freshman college students between seeking to learn or reinforce their knwoledge in algebra, from the most basic concepts to more complex intermediate level exercises.
