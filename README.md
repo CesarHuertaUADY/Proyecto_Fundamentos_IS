@@ -23,5 +23,13 @@ There are many different ways to find exercises on the internet, but with our ap
 # Target Audience
 * **Primaries Users:**  
 High school and first semesters of university students
+
 * **Potentials Users:**
 Teachers in the mathematics area
+
+# Requirements and user stories
+
+# Artifacts
+
+# Process
+
