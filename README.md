@@ -21,4 +21,5 @@ One of the biggest problems that students face when studying for their exams is 
 There are many different ways to find exercises on the internet, but with our app it will be easier and more specific the content that the student wants, also there is no app or website where the exercises are divided into different levels. 
 
 # Target Audience
-Algebraintor is principally aimed towards highschool and freshman college students seeking to learn or reinforce their knwoledge in algebra, from the most basic concepts to more complex intermediate level exercises.
+Algebraintor is principally aimed towards highschool and freshman college students seeking to learn or reinforce their knwoledge in algebra, from the most basic concepts to more complex intermediate level exercises. 
+
