@@ -10,4 +10,4 @@ We used WhatsApp and Teams as communication tools in the team, as they are the m
 
 * **Messaging:** WhatsApp we used when we were talking about topics that were easier to communicate, such as agreeing on the days we would meet to talk about the project and some quick notifications.  Teams also served as a messaging tool for us, as we used the chat to jot down certain things or pass material to each other when we had meetings. 
 
-+ **Project calls and discussion:** We used Teams for meetings, as it is very easy to use and uses less resources when making calls.
+* **Project calls and discussion:** We used Teams for meetings, as it is very easy to use and uses less resources when making calls.
