@@ -26,10 +26,3 @@ High school and first semesters of university students
 
 * **Potentials Users:**
 Teachers in the mathematics area
-
-# Requirements and user stories
-
-# Artifacts
-
-# Process
-
