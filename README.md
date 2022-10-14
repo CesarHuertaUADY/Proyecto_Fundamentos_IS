@@ -1,5 +1,5 @@
 # Algebraintor
-![Logo Algebraintor](/artifacts/Logo_ver1_resized.png)
+![Logo Algebraintor](https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/blob/main/Images/Logo_ver2_resized.png)
 
 **Scopes of the project:** 
 * **Objective:** Grant students access to a library of algebra exercises as a tool to practice several topics of basic-intermediate algebra. 
