@@ -17,19 +17,19 @@ The team met to develop a new proposal in which students can consult algebra exe
 **Pending:** Explain it to the mentor so it can be accepted.
 * **October 05, Wednesday: Discussion of the new proposal:** 
 
-During the meeting was presented the idea of an algebra exercises app: the characteristics of the application and the problems it solves were explained as well. It was also discussed how this idea could be useful to the different users and people. 
+During the meeting was presented the idea of an algebra exercises app: the characteristics of the application and the problems it solves were explained as well. It was also discussed how this idea could be useful to the different users and people. Finally, some activities were dividen among team members.
 
   **Pending:** Make the description, users, requirements and innovation of the product. Create a form.
 * **October 7th, Friday, Track the progress and make the form:** 
 
-The team checked the description, users, innovation and requirements to make sure they were appropiate. Elaborated the form that will serve as guide to see what future users experience and ask for. 
+The team checked the description, users, innovation and requirements to make sure they were appropiate. Also, the team elaborated the form that will serve as guide to see what future users experience and ask for. 
   
-  **Pending:** Check the results of the survey. Place the information in the repository.
+  **Pending:** Check the results of the survey ,place the information in the repository and make the use case diagram.
 * **October 11th, Tuesday: Methodology and presentation**
 
 The team began by clearly defining the methodology that had been used during the project, the tools, and the presentation slides began to be made.
 
-**Pending:** Know who will make the presentation
+**Pending:** Choose those who are going to expose in the video and write the generic and specific competences.
 
 * **October 12th, Wednesday, Video and competences:**
 
