@@ -9,3 +9,5 @@ An artifact is a tool that aims to solve needs and facilitate tasks during the d
 ![alt text](https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/blob/First-Deadline/Artifacts/Forms/Question_3.png)
 
 ![alt text](https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/blob/First-Deadline/Artifacts/Forms/Question_4.png)
+
++ Use case exceptions: Exceptions in the use case help us identify situations which we must prevent in the use case. Several errors were prevented during the execution of the use case.
