@@ -5,3 +5,5 @@ An artifact is a tool that aims to solve needs and facilitate tasks during the d
 ![alt text](https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/blob/First-Deadline/Artifacts/Forms/Question_1.png)
 
 ![alt text](https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/blob/First-Deadline/Artifacts/Forms/Question_2.png)
+
+![alt text](https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/blob/First-Deadline/Artifacts/Forms/Question_3.png)
