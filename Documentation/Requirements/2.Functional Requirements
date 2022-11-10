@@ -1,17 +1,1 @@
-# Functional requirements
 
-* FR001: The user will be able to choose a basic or intermediate algebra topic available and the level of difficulty of the exercises: 1, 2 or 3. **(M)**
-
-* FR002: The system will provide the procedure of each exercise.  **(M)**
-
-* FR003: The system will provide 3 videos for each available theme. **(S)**
-
-* FR004: The system will receive updates and download them automatically. **(C)**
-
-* FR005: The system will notify the user that it has received an update, as well as the changes included in it. **(C)**
-
-### Guide:
-+ **(M):** Must Have
-+ **(S):** Should Have
-+ **(C):** Could Have
-+ **(W):** Won't Have
