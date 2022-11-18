@@ -33,13 +33,13 @@ A total of 5 sprints were carried out in this second deadline.
 - **Planning:** In this sprint it was planned to make the last correction of the requirements and user stories as well as the third prototype before the delivery date.
 - **Activities:** 
 1. Correct functional and non-functional requirements
-2. Redefine requirements in user stories
-3. Create the third prototype.
+2. Correct the user stories 
+3. Create the thirtd prototype
 - **Assignees:** 
 1. Arturo Cadena, César Huerta, Shaden Aguilar
-2. 
-3. Create the third prototype.
-- **Results:** A new, better defined list of requirements
+2. Frida Pineda 
+3. Miguel Reyes 
+- **Results:** The final list of requirements and user stories and the final prototype for the second deadline.
 
 ## Fifth sprint from november 14th to november 18th
 - **Duration:** 5 days
