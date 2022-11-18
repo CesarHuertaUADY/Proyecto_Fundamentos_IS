@@ -23,10 +23,16 @@ A total of 5 sprints were carried out in this second deadline.
 
 ## Third sprint from november 3rd to november 9th
 - **Duration:** 7 days
-- **Planning:** In this sprint we planned to make the correction of requirements 
-- **Activities:** Correct functional and non-functional requirements 
-- **Assignees:** All members
-- **Results:** A new, better defined list of requirements
+- **Planning:** In this sprint we plan to continue to correct the requirements, user stories and make the second prototype. 
+- **Activities:** 
+1. Correct functional and non-functional requirements 
+2. Correct the user stories 
+3. Make the second prototype 
+- **Assignees:** 
+1. Arturo Cadena, Shaden Aguilar
+2. Frida Pineda, César Huerta
+3. Miguel Reyes
+- **Results:** A new list of requirements and user stories better defined and a new prototype in another application. 
 
 ## Fourth sprint from november 10th to november 13th
 - **Duration:** 4 days
@@ -36,8 +42,8 @@ A total of 5 sprints were carried out in this second deadline.
 2. Correct the user stories 
 3. Create the thirtd prototype
 - **Assignees:** 
-1. Arturo Cadena, César Huerta, Shaden Aguilar
-2. Frida Pineda 
+1. Arturo Cadena, Shaden Aguilar
+2. Frida Pineda, César Huerta
 3. Miguel Reyes 
 - **Results:** The final list of requirements and user stories and the final prototype for the second deadline.
 
@@ -51,7 +57,8 @@ A total of 5 sprints were carried out in this second deadline.
 4. Write the generic and specific competencies
 5. Write a summary of the progress 
 6. Make the contribution metric
-7. Making the meeting log
+7. Make the meeting log
+8. Make the use case diagram 
 - **Assignees:** 
 1. César Huerta 
 2. Cesar Huerta, Osmar Lopéz  
@@ -60,4 +67,5 @@ A total of 5 sprints were carried out in this second deadline.
 5. Shaden Aguilar
 6. Arturo Cadena
 7. Arturo Cadena
+8. Frida Pineda 
 - **Results:** The completion of the repository and presentation for the second-deadline and the creation of an improved prototype.
