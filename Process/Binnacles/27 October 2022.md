@@ -1,7 +1,7 @@
 ## Requirement Analysis and Explanation of the second increment
 **Meeting led by:** César Alejandro Huerta Méndez
 
-The mentor told us some details that need to be corrected for the requirements. In addition, he explained to us that we will do after the requirements and specifications, which is to make interfaces and then prototypes of the app.
+The mentor told us some details that need to be corrected for the requirements. In addition, he explained to us that once we finish the requirements and specifications, we should start to make the interfaces and prototypes of our app.
 
 **Pending:**
 - Correct the requirements
