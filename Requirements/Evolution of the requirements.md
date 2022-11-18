@@ -1,4 +1,5 @@
 # Evolution of the requirements
+First, we decided that it wasn’t necessary for the user to register to use the app, therefore we deleted the first old functional requirement and writing on the new non-functional requirements that all the users will be granted to use the application without needing an account.
 
 ## Old 
 
