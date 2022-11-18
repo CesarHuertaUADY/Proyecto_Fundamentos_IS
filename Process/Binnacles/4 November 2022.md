@@ -1,1 +1,1 @@
-
+The team had a meeting to make prototypes of the app, so in the meantime we decided to make two, one in Figma and the other in Powerpoint. Also, we corrected the user stories and write the evolution of the requirements. 
