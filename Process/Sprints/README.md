@@ -30,14 +30,34 @@ A total of 5 sprints were carried out in this second deadline.
 
 ## Fourth sprint from november 10th to november 13th
 - **Duration:** 4 days
-- **Planning:** In this sprint we planned to make the correction of requirements 
-- **Activities:** Correct functional and non-functional requirements 
-- **Assignees:** All members
+- **Planning:** In this sprint it was planned to make the last correction of the requirements and user stories as well as the third prototype before the delivery date.
+- **Activities:** 
+1. Correct functional and non-functional requirements
+2. Redefine requirements in user stories
+3. Create the third prototype.
+- **Assignees:** 
+1. Arturo Cadena, César Huerta, Shaden Aguilar
+2. 
+3. Create the third prototype.
 - **Results:** A new, better defined list of requirements
 
 ## Fifth sprint from november 14th to november 18th
 - **Duration:** 5 days
-- **Planning:** In this sprint we planned to make the correction of requirements 
-- **Activities:** Correct functional and non-functional requirements 
-- **Assignees:** All members
-- **Results:** A new, better defined list of requirements
+- **Planning:** In this sprint it was planned to do the interface validation, organize the repository and do the final deadline.  
+- **Activities:** 
+1. Create and apply the survey
+2. Create the video 
+3. Create the PowerPoint presentation
+4. Write the generic and specific competencies
+5. Write a summary of the progress 
+6. Make the contribution metric
+7. Making the meeting log
+- **Assignees:** 
+1. César Huerta 
+2. Cesar Huerta, Osmar Lopéz  
+3. Frida Pineda, Miguel Reyes
+4. Frida Pineda
+5. Shaden Aguilar
+6. Arturo Cadena
+7. Arturo Cadena
+- **Results:** The completion of the repository and presentation for the second-deadline and the creation of an improved prototype.
