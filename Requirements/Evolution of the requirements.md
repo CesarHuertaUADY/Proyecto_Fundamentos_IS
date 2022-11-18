@@ -1,9 +1,40 @@
 # Evolution of the requirements
-First, we decided that it wasn’t necessary for the user to register to use the app, therefore we deleted the first old functional requirement and writing on the new non-functional requirements that all the users will be granted to use the application without needing an account. Then we saw that requirements 2, 3, 4 and 5 of the old functional requirements were almost the same, so we decided to write a requirement that resumes the three of them in a  simpler and more understandable way. We also changed that there will be 7 videos for each topic and not one video at the end of each exercise. The old functional requirement number 6 was deleted and replaced by a new non-functional requirement because the fact that the exercises are without internet is an attribute. Finally, we added two functional requirements, the first is that the system will receive updates and download them automatically and the system will notify the user that it has received an update, as well as the changes included in it. And in the non-functional requirements we put that  the system will allow developers to modify it in the form of updates.
 
-## New
+## Old 
 
-### Functional requirements
+### Funcional requirements
+
+_User requirements:_
+
+* FR001: The user will be able to register to the application by creating a username and entering his/her email and password. **(M)**
+
+* FR002: Upon logging in, the user will access a list of basic and intermediate algebra topics and will be able to select one of them. **(S)**
+
+* FR003: Once the user has selected the topic, the user will be able to choose the difficulty level: 1, 2 or 3. **(M)**
+
+_System requirements:_
+
+* FR004: The system will display a listing of basic and intermediate algebra topics as well s the difficulty level of each exercise. **(M)**
+
+* FR005: The system will display the various exercises listed. **(S)**
+
+* FR006: Once the exercises are loaded, the application will have them available without the need of an internet connection. **(S)**
+
+* FR007: All the exercises will have their respective procedures in algebraic and textual format. **(M)**
+
+* FR008: The system will provide on the chosen topic at the end of each exercise in case the user needs help. These will be played from the same application. **(C)**
+
+### Non-functional requirements
+
+* NFR001: The application must be free and available for downland in the Play Store in the case of Android sperating system and in the App Store in the case of iOS operating system. **(M)** 
+
+* NFR002: The application will only be available for use in Spanish lenguage. **(C)**
+
+* NFR003: The system interface is created with the objetive of easy understanding on the user, so that the urser does not pose a major difficuly **(S)**
+
+* NFR004: The application will send menssages to the user's e-mail in case of any case of need for identify confirmation and systm error. **(M)**
+
+* NFR005: Videos can only be played with internet or mobile data. ****
 
 - FR001: The user will be able to choose a basic or intermediate algebra topic available and the level of difficulty of the exercises: 1, 2 or 3.**(M)**
 
