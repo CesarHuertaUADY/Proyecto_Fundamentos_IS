@@ -18,3 +18,19 @@
 - NFR004: The application will send messages to the user's e-mail in case of need for identify confirmation and system error.
 - NFR005: Support videos can only be played with internet or mobile data. 
 
+## New
+### Functional requirements
+- FR001: The user will be able to choose a basic or intermediate algebra topic available and the level of difficulty of the exercises: 1, 2 or 3.
+
+- FR002: The system will provide the procedure of each exercise. 
+- FR003: The system will provide 7 videos for each available theme. 
+- FR004: The system will receive updates and download them automatically. 
+- FR005: The system will notify the user that it has received an update, as well as the changes included in it.
+### Non-functional requirements
+- NFR001: All users will be granted access to use the application without needing an account. 
+
+- NFR002: The application will only be available for use in Spanish language. 
+- NFR003: The exercises will be available even without an Internet connection. 
+- NFR004: Videos can only be played with internet or mobile data. 
+- NFR005: The system will allow developers to modify it in the form of updates. 
+
