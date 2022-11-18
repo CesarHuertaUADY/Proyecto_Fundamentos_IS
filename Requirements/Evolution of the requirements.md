@@ -36,6 +36,9 @@ _System requirements:_
 
 * NFR005: Videos can only be played with internet or mobile data. ****
 
+## New
+### Functional requirements
+
 - FR001: The user will be able to choose a basic or intermediate algebra topic available and the level of difficulty of the exercises: 1, 2 or 3.**(M)**
 
 - FR002: The system will provide the procedure of each exercise. **(M)**
