@@ -22,6 +22,12 @@
 
 * USFR006: As a math teacher I want to have a simple platform where I can find algebra exercises and give them to my students to practice or use them as materia in my planning. **(M)**
 
+* USFR007: As a user, I want the application to save and show me my progress as I solve the exercises to know how far I am from finishing the exercises by topic and difficulty level. **(S)**
+
+* USFR008: As a user, I want the application to automatically mark when I have opened an exercise so that I know which exercise I have stayed in and which ones I have already seen. **(S)**
+
+* USRF009: As a user, I would like the application to give me the possibility to mark when I have finished an exercise so that I don't get confused and I can see the ones I have already finished and the ones I still have to solve. **(S)**
+
 * USNFR001: I as a user would like to have access to the application without an account, so i can easily enter and use the application. **(M)**
 
 * USNFR002: As a user, I want the app to be available in spanish, so I can understand perfectly all the content. **(S)**
