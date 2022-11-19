@@ -41,15 +41,15 @@ In the prototypes there are bars that indicate the progress of the exercises and
  
  As mentioned before, this requirement is implicit
  
- -NFR003: The exercises will be available even without an Internet connection
+ - NFR003: The exercises will be available even without an Internet connection
  
  The prototypes do not show that the device is connected since everything is there.
  
- -NFR004: Videos can only be played with internet or mobile data
+ - NFR004: Videos can only be played with internet or mobile data
  
  As the videos are from other platforms, they require an internet connection.
  
- -NFR005: The system will allow developers to modify it in the form of updates
+ - NFR005: The system will allow developers to modify it in the form of updates
  
  We cannot confirm the match because the app has not been developed.
  
