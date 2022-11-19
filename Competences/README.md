@@ -1,4 +1,4 @@
-# Generic and Specific Competencies
+# Generic and Specific Competences
 
 ## Generic competences:
 During the process, the sprint sessions, both with the tutor's presence and without it, allowed us to improve our oral expression skill for we had to share our individual contribution. We also made use of ICT, for instance: for creation of the repository we used Github; Prototyping: Figma; Presentations: Canva, PPT; likewise, cell phones and laptops were required all the time, as well as social networks to stay in touch with the team. We worked in a friendly environment throughout the second deadline, just as we make decisions cooperatively.
