@@ -4,10 +4,11 @@ The only requirement that was not met was NFR005 since the application has not b
 
 - FR001: The user will be able to choose a basic or intermediate algebra topic available and the level of difficulty of the exercises: 1, 2 or 3.
 
-In the prototypes it can be seen that there are options to choose three different levels in each topic.
+In the prototypes you can see that there are several theme options to choose from, as well as three levels of difficulty.
+
 - FR002: The system will provide the procedure of each exercise.
 
-The procedures appear complete in the prototypes.
+An example of this can be seen in the prototypes as they show an exercise with its respective procedure.
 
 - FR003: The system will provide 7 videos for each available theme.
 
@@ -51,6 +52,6 @@ In the prototypes there are bars that indicate the progress of the exercises and
  
  - NFR005: The system will allow developers to modify it in the form of updates
  
- We cannot confirm the concordance because the app has not been developed.
+ We cannot confirm the match because the app has not been developed.
  
 
