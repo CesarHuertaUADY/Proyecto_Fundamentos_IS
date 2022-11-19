@@ -5,4 +5,4 @@ The mentor explained to us in what ways the application can be shaped in terms o
 
 **Pending:**
 - Make user stories that have acceptance criteria
-- Develop prototypes
+- Develop a prototype
