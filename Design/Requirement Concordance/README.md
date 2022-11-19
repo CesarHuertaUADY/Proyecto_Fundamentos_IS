@@ -51,6 +51,6 @@ In the prototypes there are bars that indicate the progress of the exercises and
  
  - NFR005: The system will allow developers to modify it in the form of updates
  
- We cannot confirm the match because the app has not been developed.
+ We cannot confirm the concordance because the app has not been developed.
  
 
