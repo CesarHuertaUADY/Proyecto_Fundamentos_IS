@@ -51,7 +51,7 @@ _System requirements:_
  
 - FR005: The system will notify the user that it has received an update, as well as the changes included in it.**(C)**
 
-- FR006: The application will have a progress bar that will show the progress of each topic and each level. **(S)**
+- FR006: the system will save and display the user's progress in completing the exercises by level and by topic . **(S)**
 
 - FR007: The system will automatically mark when an exercise has been opened. **(S)**
 
