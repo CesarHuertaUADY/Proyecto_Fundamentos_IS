@@ -13,6 +13,6 @@ The procedures appear complete in the prototypes.
 
 There are videos on every topic in the app
 
--FR004: The system will receive updates and download them automatically.
+- FR004: The system will receive updates and download them automatically.
 It can be checked that the system downloads the updates automatically
 
