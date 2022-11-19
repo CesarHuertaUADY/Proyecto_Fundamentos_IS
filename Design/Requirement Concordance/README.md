@@ -40,7 +40,7 @@ In the prototypes there are bars that indicate the progress of the exercises and
  
  - NFR002: The application will only be available for use in Spanish language
  
- As mentioned before, this requirement is implicit
+The prototypes show that the application is in Spanish.
  
  - NFR003: The exercises will be available even without an Internet connection
  
