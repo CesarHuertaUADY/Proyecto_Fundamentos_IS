@@ -6,3 +6,4 @@ The mentor told us some details that need to be corrected for the requirements. 
 **Pending:**
 - Correct the requirements
 - Start planning about how we are going to make the interfaces
+- Make the first prototype
