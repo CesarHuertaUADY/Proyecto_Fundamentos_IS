@@ -28,7 +28,7 @@ In the prototypes there are bars that indicate the progress of the exercises and
 
 - FR007: The system will automatically mark when an exercise has been opened
 
- There are options that show when an exercise has been finished like progress bars.
+ It is shown that when an exercise is opened the color of the numbers changes to gray.
  
  - FR008: The user will be able to mark the exercises already done.
  
