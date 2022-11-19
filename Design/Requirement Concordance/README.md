@@ -33,7 +33,7 @@ In the prototypes there are bars that indicate the progress of the exercises and
  
  In the prototypes the user will have the option to mark when the exercises are done.
  
- -NFR001: All users will be granted access to use the application without needing an account
+ - NFR001: All users will be granted access to use the application without needing an account
  
  In the prototypeS, data is not requested to access.
  
