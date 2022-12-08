@@ -16,6 +16,7 @@ When choosing the exercise, it will have the option to see the procedure and it 
 - ### FR003: The system will provide 7 videos for each available theme
 When entering the topic, at the top there is an option that says: Do you need help? Check out these videos on the subject. When selecting the word video, 7 of the topic will appear.
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/blob/Third-Deadline/Design/Correspondence%20with%20requirements/Images/FR003.png
 
 - ### FR004: The system will notify the user that it has received an update, as well as the changes included in it
 Upon entering the application, there will be a bell that when clicked will say all the updates and you will have the option to activate them or not.
