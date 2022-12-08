@@ -15,3 +15,10 @@
 * FR007: The user will be able to mark the exercises already done. (S)
 
 * FR008: The system will have a test with stopwatch for each topic. (S)
+
+## Guide:
+
+* (M): Must Have
+* (S): Should Have
+* (C): Could Have
+* (W): Won't Have
