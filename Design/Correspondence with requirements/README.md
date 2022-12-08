@@ -19,5 +19,6 @@ When entering the topic, at the top there is an option that says: Do you need he
 
 - ### FR004: The system will notify the user that it has received an update, as well as the changes included in it
 Upon entering the application, there will be a bell that when clicked will say all the updates and you will have the option to activate them or not.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
+<p align="center">
+  <img width="300" height="300" src="https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/blob/Third-Deadline/Design/Correspondence%20with%20requirements/Images/FR004.png">
+</p>
