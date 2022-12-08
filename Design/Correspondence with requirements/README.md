@@ -8,7 +8,9 @@ After choosing a theme, the prototype shows 3 levels for the user to choose one.
 
 - ### FR002: The system will provide the procedure of each exercise
 When choosing the exercise, it will have the option to see the procedure and it can also be used to verify if the answer is correct.
-
+<p align="center">
+  <img width="300" height="300" src="https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/blob/Third-Deadline/Design/Correspondence%20with%20requirements/FR002.png">
+</p>
 
 
 - ### FR003: The system will provide 7 videos for each available theme
