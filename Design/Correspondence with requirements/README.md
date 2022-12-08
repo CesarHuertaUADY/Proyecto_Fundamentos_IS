@@ -37,6 +37,9 @@ The application shows a tick in each open exercise
 
 - ### FR007: The user will be able to mark the exercises already done
 Above after putting choose the exercises, there is an option that says "Marcar como completado".
+<p align="center">
+  <img width="300" height="300" src="https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/blob/Third-Deadline/Design/Correspondence%20with%20requirements/Images/FR007.png">
+</p>
 
 - ### FR008: The system will have a test with stopwatch for each topic
 In the application you can see the exam and the timer.
