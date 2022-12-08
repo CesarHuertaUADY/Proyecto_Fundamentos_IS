@@ -31,6 +31,9 @@ The application will have a progress bar in the rectangles of each topic and lev
 
 - ### FR006: The system will automatically mark when an exercise has been opened
 The application shows a tick in each open exercise
+<p align="center">
+  <img width="300" height="300" src="https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/blob/Third-Deadline/Design/Correspondence%20with%20requirements/Images/FR006.png">
+</p>
 
 - ### FR007: The user will be able to mark the exercises already done
 Above after putting choose the exercises, there is an option that says "Marcar como completado".
