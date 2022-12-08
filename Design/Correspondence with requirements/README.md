@@ -25,6 +25,9 @@ Upon entering the application, there will be a bell that when clicked will say a
 
 - ### FR005: The system will save and display the user's progress in completing the exercises by level and by topic
 The application will have a progress bar in the rectangles of each topic and level
+<p align="center">
+  <img width="300" height="300" src="https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/blob/Third-Deadline/Design/Correspondence%20with%20requirements/Images/FR005.png">
+</p>
 
 - ### FR006: The system will automatically mark when an exercise has been opened
 The application shows a tick in each open exercise
