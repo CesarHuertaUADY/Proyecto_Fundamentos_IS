@@ -3,7 +3,7 @@
 After choosing a theme, the prototype shows 3 levels for the user to choose one.
 
 <p align="center">
-  <img width="280" height="530" src="https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/blob/Third-Deadline/Design/Correspondence%20with%20requirements/FR001.png">
+  <img width="280" height="530" src="https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/blob/Third-Deadline/Design/Correspondence%20with%20requirements/Images/FR001.png">
 </p>
 
 - ### FR002: The system will provide the procedure of each exercise
