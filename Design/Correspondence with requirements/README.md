@@ -1,11 +1,15 @@
 # Correspondence with the requirements
 - ### FR001: The user will be able to choose a basic or intermediate algebra topic available and the level of difficulty of the exercises: 1, 2 or 3
 After choosing a theme, the prototype shows 3 levels for the user to choose one.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+<p align="center">
+  <img width="280" height="530" src="https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/blob/Third-Deadline/Design/Correspondence%20with%20requirements/FR001.png">
+</p>
 
 - ### FR002: The system will provide the procedure of each exercise
 When choosing the exercise, it will have the option to see the procedure and it can also be used to verify if the answer is correct.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 
 - ### FR003: The system will provide 7 videos for each available theme
 When entering the topic, at the top there is an option that says: Do you need help? Check out these videos on the subject. When selecting the word video, 7 of the topic will appear.
