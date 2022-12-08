@@ -22,11 +22,12 @@ There are many different ways to find exercises on the internet, but with our ap
 
 # Target Audience
 * **Primaries Users:**  
-High school and first semesters of university students
+High school students and first semesters of university who need algebra exercises to practice either to study for an exam or to better learn the subject.
 
 * **Potentials Users:**
-Teachers in the mathematics area
+Mathematics teachers who need algebra exercises for their activities.
 
 # Deadlines
 * [Branch 1st Deadline](https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/tree/First-Deadline "Branch")
 * [Branch 2nd Deadline](https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/tree/Second-Deadline "Branch")
+* [Branch 3rd Deadline](https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/tree/Third-Deadline "Branch")
