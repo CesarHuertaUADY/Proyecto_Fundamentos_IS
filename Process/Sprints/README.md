@@ -49,7 +49,7 @@ A total of 2 sprints were carried out in this third deadline.
 4. Frida Pineda, Shaden Aguilar
 5. César Huerta, Arturo Cadena, Miguel Reyes, Osmar López
 6. Arturo Cadena, César Huerta
-7. Arturo Cadena, Frida Pineda
+7. Arturo Cadena
 8. César Huerta, Miguel Reyes
 9. Shaden Aguilar
 10. Shaden Aguilar
