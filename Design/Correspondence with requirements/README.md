@@ -51,3 +51,6 @@ Above after putting choose the exercises, there is an option that says "Marcar c
 
 - ### FR008: The system will have a test with stopwatch for each topic
 In the application you can see the exam and the timer.
+<p align="center">
+  <img width="300" height="300" src="https://github.com/CesarHuertaUADY/Proyecto_Fundamentos_IS/blob/Third-Deadline/Design/Correspondence%20with%20requirements/Screenshot_20221209-050854_WhatsApp.jpg">
+</p>
